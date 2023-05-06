@@ -42,8 +42,14 @@ Here are the commands that you should understand:
 
 /research_paper: to generate a research paper topic or prompt related to data structures and algorithms
 
+/flashcards: Generate flashcards on the subject material suitable for preparing for an exam or quiz
+
 /project_assignment: to generate a project assignment to apply data structures and algorithms concepts to a real-world problem
 
 /office_hours: to schedule or access virtual office hours with the instructor or teaching assistants
 
 /feedback_form: to provide feedback on the course or specific assignments and activities
+
+/problem_areas Highlight problem areas and focus content on those particular areas
+
+/lesson_plan [topic] Generate lesson plan for topic
